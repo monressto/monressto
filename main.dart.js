@@ -52495,7 +52495,7 @@ A.ZV.prototype={
 $0(){this.a.f=this.b},
 $S:0}
 A.ZX.prototype={
-$0(){B.a2.XJ(window,"https://apps.apple.com/app/id=1630922045","Mon Resto")},
+$0(){B.a2.XJ(window,"https://cutt.ly/kKKYGve","Mon Resto")},
 $S:0}
 A.ZY.prototype={
 $0(){var s=0,r=A.a5(t.H),q=this
